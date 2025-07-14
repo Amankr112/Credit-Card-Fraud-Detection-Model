@@ -108,15 +108,6 @@ This project demonstrated how machine learning can be applied effectively to imb
 
 ---
 
-## 📃 License
 
-This project is licensed under the MIT License.
-
----
-
-## 🙋‍♂️ Author
-
-**Aman Kumar**  
-[SIC Code: 22BCSI16]  
 Feel free to connect or contribute via GitHub!
 
