@@ -94,14 +94,6 @@ The dataset used in this project is from **Kaggle’s Credit Card Fraud Detectio
 
 ---
 
-## 📊 Sample Visuals
-
-![Class Distribution](assets/class-distribution.png)
-![Confusion Matrix](assets/confusion-matrix.png)
-<!-- You can add these image files in the repo for better preview -->
-
----
-
 ## ✅ Conclusion
 
 This project demonstrated how machine learning can be applied effectively to imbalanced classification problems such as credit card fraud detection. Techniques like **SMOTE**, **undersampling**, and careful model evaluation are essential for such domains. The project provides a solid foundation to build real-world financial fraud detection systems.
